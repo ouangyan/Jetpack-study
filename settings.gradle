@@ -1,0 +1,3 @@
+rootProject.name = "viewModel"
+include ':app'
+include ':app:livedata'
