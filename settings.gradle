@@ -1,3 +1,9 @@
 rootProject.name = "viewModel"
 include ':app'
 include ':app:livedata'
+include ':app:livedata2'
+include ':app:databinding'
+include ':app:databinding2'
+include ':app:databinding3'
+include ':app:databinding4'
+include ':app:databinding5'
