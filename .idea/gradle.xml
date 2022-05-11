@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/app/databinding5" />
             <option value="$PROJECT_DIR$/app/livedata" />
             <option value="$PROJECT_DIR$/app/livedata2" />
+            <option value="$PROJECT_DIR$/app/room" />
+            <option value="$PROJECT_DIR$/app/room2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
