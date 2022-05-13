@@ -31,6 +31,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.textViewId.setText(String.valueOf(student.id));
         holder.textView1.setText(student.name);
         holder.textView2.setText(String.valueOf(student.age));
+        holder.textView3.setText(student.sex+"");
     }
 
     @Override
@@ -42,6 +43,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         TextView textView1;
         TextView textView2;
         TextView textViewId;
+        TextView textView3;
 
         public ViewHolder(View itemView) {
             super(itemView);
@@ -49,6 +51,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
             textViewId = itemView.findViewById(R.id.id);
             textView1 = itemView.findViewById(R.id.text1);
             textView2 = itemView.findViewById(R.id.text2);
+            textView3 = itemView.findViewById(R.id.text3);
         }
     }
 }
