@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/app/navigation3" />
             <option value="$PROJECT_DIR$/app/room" />
             <option value="$PROJECT_DIR$/app/room2" />
+            <option value="$PROJECT_DIR$/app/workmanager" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
