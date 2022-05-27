@@ -4,7 +4,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="testRunner" value="PLATFORM" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -18,16 +18,17 @@
             <option value="$PROJECT_DIR$/app/databinding5" />
             <option value="$PROJECT_DIR$/app/livedata" />
             <option value="$PROJECT_DIR$/app/livedata2" />
+            <option value="$PROJECT_DIR$/app/livedata3" />
             <option value="$PROJECT_DIR$/app/navigation" />
             <option value="$PROJECT_DIR$/app/navigation2" />
             <option value="$PROJECT_DIR$/app/navigation3" />
             <option value="$PROJECT_DIR$/app/paging" />
+            <option value="$PROJECT_DIR$/app/recycleview" />
             <option value="$PROJECT_DIR$/app/room" />
             <option value="$PROJECT_DIR$/app/room2" />
             <option value="$PROJECT_DIR$/app/workmanager" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
