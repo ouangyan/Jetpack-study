@@ -2,7 +2,6 @@ package com.example.recycleview.model;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class UserDataSource {
     public static List<User> dataSource = new ArrayList<>();
